@@ -1,2 +1,3 @@
-# Projects
-This is all the projects that I have done over the years , There is a flight system and webservice which Help students register to CTI
+# Android App
+This is an android application that I did for my 3rd Java project. It contains a calculator , a Quiz and a simple paint brush
+
