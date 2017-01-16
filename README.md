@@ -1,3 +1,3 @@
-# Android App
-This is an android application that I did for my 3rd Java project. It contains a calculator , a Quiz and a simple paint brush
+# Flight System
+This is a simple Java application that uses priority queue and a GUI to manage the priority of flights that load in for take off and landing
 
